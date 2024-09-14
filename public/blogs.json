@@ -1,0 +1,23 @@
+[
+    {
+        "id": "b01",
+        "image": "https://i.postimg.cc/Nf2zv06q/pexels-sarah-chai-7282403.jpg",
+        "title": "High Maternal Risk",
+        "short_description": "Consult with a maternal-fetal medicine specialist",
+        "description": "Consult with a maternal-fetal medicine specialist (perinatologist) to manage high-risk pregnancies effectively. These specialists have the expertise to handle complex pregnancy conditions and provide the necessary care for both mother and baby."
+    },
+    {
+        "id": "b02",
+        "image": "https://i.postimg.cc/Nj1CLPCd/pexels-william-fortunato-6393333.jpg",
+        "title": "Medium Maternal Risk",
+        "short_description": "During a medium-risk regular maternal checkup must",
+        "description": "Schedule and attend regular prenatal check-ups with your obstetrician-gynecologist (OB/GYN). Regular monitoring helps in early detection and management of any potential issues to ensure the health and well-being of both mother and baby."
+    },
+    {
+        "id": "b03",
+        "image": "https://i.postimg.cc/5tgPSQVv/pexels-cottonbro-5853667.jpg",
+        "title": "Low Maternal Risk Health",
+        "short_description": "Attend prenatal check-ups when it is needed",
+        "description": "Regular prenatal check-ups with your obstetrician-gynecologist (OB/GYN) are important for monitoring the health and development of both you and your baby. These appointments help ensure that any potential issues are identified early and addressed promptly."
+    }
+]
